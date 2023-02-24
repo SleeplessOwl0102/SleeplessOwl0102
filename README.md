@@ -1,3 +1,2 @@
 # About Me
-Love developing games. Especially developing tools and design systems to eliminate the boring part of game development is fun in itself!  
-喜欢开发游戏。尤其开发工具与设计系统，觉得消灭游戏开发枯燥的部分本身就很有趣！
+Love to develop tools and design systems for games and find it fun to eliminate the boring parts of game development!
